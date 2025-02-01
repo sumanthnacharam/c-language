@@ -17,3 +17,4 @@ Details of the RISC-V 32i Instruction Encoding: [Download the PDF](https://githu
 # Tools
 1. [RISC-V Instruction Decoder](https://luplab.gitlab.io/rvcodecjs/)
 1. [GDB Dashboard](https://github.com/cyrus-and/gdb-dashboard)
+1. [Assembler (as) Documentation](https://ftp.gnu.org/old-gnu/Manuals/gas/html_chapter/as_7.html)
